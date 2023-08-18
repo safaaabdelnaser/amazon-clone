@@ -1,6 +1,7 @@
 # Getting Started with Create React App(Amazon Clone)
 
-![Uploading FireShot Capture 053 - Amazon Clone App - localhost.png…]()
+
+![FireShot Capture 053 - Amazon Clone App - localhost](https://github.com/safaaabdelnaser/amazon-clone/assets/55063496/5effe819-e750-47c5-bc05-56c2d842f9cb)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
