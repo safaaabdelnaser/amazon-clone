@@ -1,0 +1,46 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  background-color: white;
+  height: max-content;
+  max-height: 90%;
+}
+.checkout-ad {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.checkout-title {
+  margin-right: 15px;
+  padding: 10px;
+  border-bottom: 1px solid lightgray;
+}
+
+.alert-message {
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards;
+  background-color: #926d10;
+  padding: 50px;
+  border: 1px solid #e9e3e3;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 16px;
+  max-width: 550px;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-right: 150px;
+  transition: opacity 0.5s ease-in-out;
+  
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
